@@ -1,0 +1,780 @@
+*{
+  font-family: poppins;
+}
+.navbar{
+  margin-left: -8.7em;
+}
+.logo {
+  max-width: 5em;
+}
+#about{
+  color: rgba(255, 144, 43, 1);
+}
+.navbar {
+  /* position: absolute; */
+  background-color: rgba(246, 235, 218, 1);
+}
+
+.navbar .nav-item {
+  margin-right: 1rem;
+}
+
+.search-input {
+  max-width: 150px;
+}
+.search-input:focus {
+  box-shadow: none;
+  border-color: #ced4da;
+}
+.search-input {
+max-width: 150px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.cart-icon {
+max-width: 25px;
+}
+
+.div2{
+  background-color:rgba(246, 235, 218, 1) ;
+  padding-bottom: 25em;
+}
+
+.ellipse{
+  position: absolute;
+  max-width:21.8em ;
+  margin-top: 5em;
+  margin-left: 6.4em;
+}
+.big_cup{
+  position: absolute;
+  max-width:21.8em ;
+  margin-top: 10em;
+  margin-left: 7.4em;
+}
+.cup_pic{
+  position: absolute;
+  max-width:18.8em ;
+  margin-top: 5em;
+  margin-left: 8.4em;
+}
+
+.enjoy{
+  font-size: 2.4em; 
+  font-weight: 600;
+  margin-top: 3.8em;
+  line-height: 1.4em;
+}
+.boost{
+  font-size: 0.8em;
+  color: rgba(126, 125, 122, 1);
+  font-weight: 400;
+}
+.order{
+  color: white;
+  font-size: 0.6em;
+  font-weight: 600;
+  background-color:  rgba(47, 33, 5, 1);
+  border: none;
+  border-radius: 1.6em;
+  padding: 0.8em 1.3em 0.7em 1.3em;
+}
+.div3{
+  position: absolute;
+  margin-top: -15.8em;
+  margin-left: 1em;
+}
+.pop{
+  font-size: 2em;
+  font-weight: 500;
+  margin-bottom: 1.2em;
+}
+.now{
+  border-bottom: 0.1em solid rgba(255, 144, 43, 1);
+}
+.div3 .container {
+  margin-left: 5.8em;
+}
+.box1{
+  box-shadow: 10px 10px 32px 0px rgba(0, 0, 0, 0.25);
+  padding: 1.2em;
+  border-radius: 0.5em;
+  background-color: white;
+  max-width: 18.5em;
+}
+.box1 img{
+  max-width: 16em;
+  border-radius: 0.5em;
+}
+.box1 p{
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-top: 0.7em;
+}
+.box1 p span{
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-top: 0.7em;
+  margin-left: 2.4em;
+}
+
+.box1 button{
+  border: none;
+  border-radius: 0.4em;
+  border: 0.2em solid rgb(255, 144, 43) ;
+  background-color: white;
+  color: rgb(255, 144, 43);
+  padding: 0.4em 0.9em 0.3em 0.9em;
+}
+.lattee{
+  display: flex;
+}
+.k23{
+  margin-left: 1em;
+}
+.co{
+  opacity: 0.4;
+}
+.logo{
+  margin-left: 3.4em;
+}
+
+.div4{
+  margin-top: 20em;
+}
+.point{
+  max-width: 9em;
+}
+.div4 .chose{
+  margin-bottom: 0em;
+}
+.chose {
+  font-weight: 500;
+  text-align: center;
+  margin-top: 0.4em;
+  font-size: 1em;
+}
+.there{
+  text-align: center;
+  margin-top:-1.3em ;
+  font-size: 0.7em;
+}
+.o_logo{
+  margin-left: 1.7em;
+  margin-top: -1em;
+  width: 2em;
+}
+.div3 .o_logo{
+  margin-left: 3.2em;
+}
+.o1_logo{
+  margin-left:3em;
+  margin-top: -1em;
+  width: 2em;
+}
+
+.div5{
+  margin-top: 10em;
+  background-color: rgba(246, 235, 218, 1);
+  padding: 6em 0em;
+}
+.secondcol{
+  margin-top: -1.3em;
+}
+.div5 .pop{
+  font-size: 2.8em;
+  margin-bottom: 1em;
+}
+.we{
+  font-weight: 400;
+  margin-top: -1.4em;
+  font-size: 1.3em;
+  line-height: 1.1em;
+  margin-bottom: 0.7em;
+}
+.div5 .boost{
+  font-size: 1em;
+  margin-bottom: 1.3em;
+}
+.get{
+  font-size: 0.8em;
+  font-weight: 600;
+  background-color:  rgba(47, 33, 5, 1);
+  border: none;
+  border-radius: 1.6em;
+  color: rgba(244, 174, 38, 1);
+  padding: 0.8em 1.3em 0.7em 1.3em;
+}
+.coffee{
+  max-width: 20.7em;
+  margin-top: -12em;
+}
+
+.div6{
+  margin-top: 9em;
+}
+.div6 .box1{
+  padding-right: -3em;
+}
+.box1 .bread{
+  font-size: 0.7em;
+  color: rgba(126, 125, 122, 1);
+  font-weight: 400;
+  margin-top: -0.6em;
+  line-height: 1.3em;
+  white-space: nowrap;
+}
+.cream{
+  white-space: nowrap;
+}
+.three_img{
+  margin-top: 1.4em;
+}
+.k12{
+  margin-left: 3em;
+}
+.k13{
+  margin-left: 1.1em;
+}
+.div6 .o_logo{
+  margin-left: 3.4em;
+
+}
+.back{
+  background-color: rgb(246, 235, 218);
+  padding: 13em 0em;
+  margin-top: 8em;
+  max-width: 50em;
+  margin-left: -1em;
+  border-radius: 1em;
+}
+.div7{
+  margin-top: -17em;
+  margin-bottom: 10em;
+}
+.txt .boost{
+  margin-top: -1.6em;
+  font-size: 0.8em;
+}
+.txt .pop{
+  font-weight: 600;
+  font-size: 1.8em;
+}
+.img_3 img{
+  margin-left: -10em;
+  max-width: 22em;
+  padding-left: 11em;
+}
+.div7 .khaire{
+  max-width: 21em;
+}
+.last_img{
+  max-width: 60em;
+  margin-bottom: 4em;
+  margin-left: 7em;
+}
+.div8{
+  margin-top: -18em;
+  margin-left: 19em;
+}
+.div8 p{
+  font-size: 1.8em;
+  font-weight: 500;
+  color: white;
+}
+.div8 input{
+  max-width: 25em;
+  height: 2.8em;
+  border: none;
+  border-radius: 2em;
+  padding-left: 1em;
+  margin-left: 4.5em;
+}
+input::placeholder{
+  font-size: 0.9em;  
+  font-weight: 500;
+  opacity: 0.8;
+}
+.div8 button{
+  background-color: rgba(47, 33, 5, 1);
+  color: white;
+  max-width: 9.2em;
+  max-height: 38px;
+  margin-left: -9.5em;
+  margin-top: 0.25em;
+  border-radius: 1.4em;
+  border: none;
+  font-size: 0.8em;
+  font-weight: 400;
+}
+@media (max-width:290px){
+  .navbar{
+    margin-left: 0em;
+  }
+  .ebc{
+    position: absolute; 
+    top : 34em;
+    right: 13.3em;
+    margin-bottom: 10em;
+  }
+  .ellipse{
+    max-width: 14em;
+  }
+  .big_cup{
+    max-width: 12em;
+    margin-left: 8em;
+    margin-top: 9em;
+  }
+  .cup_pic{
+    max-width: 11em;
+    margin-top: 6em;
+    margin-left: 8em;
+  }
+  .div2{
+    padding-bottom: 20em;
+    text-align: center;
+  }
+  .div3{
+    margin-top: 4em;
+    max-width: 11em;
+    text-align: center;
+  }
+  .div3 img{
+    max-width: 14em;
+  }
+  .div3 .pop{
+    margin-left: -1.6em;
+  }
+  .div3 .k23{
+    margin-left: 3.8em;
+  }
+  .div3 .box1 p span{
+    margin-left: 3.3em;
+  }
+  .div3 .box1{
+    margin-left: -7em;
+    max-width: 18.6em;
+  }
+  .box1{
+    margin-bottom: 1.3em;
+  }
+  .div4{
+    margin-top: 76em;
+  }
+  .div4 .roww{
+    margin-bottom: 2em;
+  }
+  .secondcol{
+    margin-top: 1em;
+    margin-left: 1em;
+  }
+  .we{
+    margin: 1em 0em 0.9em 0em;
+  }
+  .div5 .boost{
+    font-size: 3.66vw;
+    margin-bottom: 2em;
+  }
+  .div4 .pop{
+    text-align: center;
+  }
+  .div5 .coffee{
+    max-width: 16.3em;
+  }
+  .div5 .we{
+    font-size: 1.1em;
+    margin-top: -1em;
+  }
+  .div5 .boost{
+    font-size: 0.61em;
+  }
+  .div6 img{
+    max-width: 13.7em;
+  }
+  .div6 .logo1 .o_logo{
+    margin-left: 2em;
+  }
+  .div6 .k3 .k13{
+    margin-left: -0.1em;
+  }
+  .div6 .logo3 .o_logo{
+    margin-left: 2em;
+  }
+  .div6 .k5 .k12{
+    margin-left: 2.3em;
+  }
+  .div6 .k4 .k13{
+    margin-left: 0.3em;
+  }
+  .div6 .logo4 .o_logo{
+    margin-left: 2.3em;
+  }
+  .div7{
+    text-align: center;
+  }
+  .div7 .txt{
+    margin-top: -3em;
+  }
+  .div7 .pop{
+    font-size: 2em;
+    line-height: 1em;
+  }
+  .div7 .boost{
+    font-size: 0.9em;
+  }
+  .div7 img{
+    margin-top: 2em;
+    max-width: 25em;
+  }
+  .div7 .khaire{
+    max-width: 22.2em;
+    padding-left: 9.8em;
+  }
+  .last_img{
+    height: 10em;
+    margin-left: -0.1em;
+    max-width: 17.9em;
+    margin-top: -5em;
+  }
+  .div8{
+    padding-top: 6.3em;
+    margin-left: -0.1em;
+    text-align: center;
+  }
+  .div8 p{
+    font-size: 1em;
+  }
+  .div8 input{
+    width: 10.6em;
+    height: 1.8em;
+  }
+  .div8 ::placeholder{
+    font-size: 0.8em;
+  }
+  .div8 button{
+    display: none;
+  }
+}
+
+@media (min-width:290px) and (max-width: 576px) { 
+  .navbar{
+    margin-left: 0em;
+  }
+  .ebc{
+    position: absolute; 
+    top : 30em;
+    right: 13em;
+    margin-bottom: 10em;
+    /* padding-right: 90em; */
+  }
+  .ellipse{
+    max-width: 14em;
+  }
+  .big_cup{
+    max-width: 12em;
+    margin-left: 8em;
+    margin-top: 9em;
+  }
+  .cup_pic{
+    max-width: 11em;
+    margin-top: 6em;
+    margin-left: 8em;
+  }
+  .div2{
+    padding-bottom: 20em;
+    text-align: center;
+  }
+  .div3{
+    margin-top: 4em;
+    max-width: 16em;
+    text-align: center;
+  }
+  .div3 .pop{
+    margin-left: -2.3em;
+  }
+  .lattee{
+    margin-left: 1.1em;
+  }
+  .k23{
+    margin-left: 2em;
+  }
+  .div3 .box1{
+    margin-left: -4.8em;
+    max-width: 18.6em;
+  }
+  .box1{
+    margin-bottom: 1.3em;
+  }
+  .div4{
+    margin-top: 76em;
+  }
+  .div4 .roww{
+    margin-bottom: 2em;
+  }
+  .secondcol{
+    margin-top: 1em;
+    margin-left: 1em;
+  }
+  .we{
+    margin: 1em 0em 0.9em 0em;
+  }
+  .div5 .boost{
+    font-size: 3.66vw;
+    margin-bottom: 2em;
+  }
+  .div4 .pop{
+    text-align: center;
+  }
+  .div6 .box1{
+    max-width: 18.5em;
+    margin-left: 2em;
+  }
+  .div7{
+    text-align: center;
+  }
+  .div7 .txt{
+    margin-top: -3em;
+  }
+  .div7 .pop{
+    font-size: 2.8em;
+    line-height: 1em;
+  }
+  .div7 .boost{
+    font-size: 1.2em;
+  }
+  .div7 img{
+    margin-top: 2em;
+    max-width: 30em;
+  }
+  .div7 .khaire{
+    max-width: 30em;
+    padding-left: 9.8em;
+  }
+  .last_img{
+    height: 15em;
+    margin-left: -0.1em;
+    max-width: 24.5em;
+  }
+  .div8{
+    padding-top: 1.3em;
+    margin-left: -0.1em;
+    text-align: center;
+  }
+  .div8 input{
+    width: 15.8em;
+  }
+}
+
+@media (min-width:576px) and (max-width:1000px){
+  .div2{
+    max-width: 100%;
+  }
+  .ellipse{
+    max-width: 17em;
+  }
+  .big_cup{
+    max-width: 17em;
+    margin-left: 7.8em;
+    margin-top: 9em;
+  }
+  .cup_pic{
+    max-width: 14em;
+    margin-top: 5.5em;
+    margin-left: 8.2em;
+  }
+  .ebc{
+    margin-top: -18em;
+    margin-left: 20em;
+  }
+  .div3{
+    margin-left: -4.3em;
+  }
+  .div3 img{
+    max-width: 11em;
+  }
+  .div3 .van{
+    /* max-width: 1px; */
+    font-size: 1em;
+  }
+  .div3 p span{
+    /* padding-left: -7px; */
+    font-size: 0.9em;
+  }
+  .espresso_13k{
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+  }
+  .lattee{
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+  }
+  .div3 .o_logo{
+    margin-left: 9em;
+    margin-top: -4em;
+  }
+  .k23{
+    font-size: 0.9em;
+  }
+  .div5 .boost{
+    font-size: 0.8em;
+    margin: 2em 0em;
+  }
+
+  .div6 img{
+    max-width: 11em;
+  }
+  .div6 .o_logo{
+    width: 2em;
+    margin-left: 1.65em;
+  }
+  .div6 .k1{
+    margin-left: 1.1em;
+  }
+  .div6 .k2{
+    /* position: absolute; */
+    margin-left: 8.3em;
+    margin-top: -3.4em;
+  }
+  .div6 .logo1 .o_logo{
+    position: absolute;
+    margin-left: 0em;
+  }
+  .div6 .k3{
+    /* position: absolute; */
+    margin-left: 7.7em;
+    margin-top: -2em;
+  }
+  .div6 .logo3 .o_logo{
+    /* position: absolute; */
+    margin-top: -1.4em;
+    margin-left: -0.1em;
+  }
+  .div6 .breaad{
+    margin-top: -1.6em;
+    font-size: 1em;
+    color: rgba(126, 125, 122, 1);
+    font-weight: 400;
+    line-height: 1.3em;
+    white-space: nowrap;
+  }
+  .div6 .k12{
+    margin-left: 0.63em;
+  }
+  .div6 .k4{
+    margin-left: 7.7em;
+    margin-top: -2em;
+  }
+  .div6 .logo4 .o_logo{
+    margin-top: -1.4em;
+    margin-left: -0.1em;
+  }
+  .div6 .breead{
+    margin-top: -1em;
+  }
+  .div6 #boxx{
+    height: 15.5em;
+  }
+  .div6 #boxxx{
+    height: 16.4em;
+  }
+  .div7{
+    margin-top: -12em;
+    font-size: 1.8em;
+  }
+  .div7 .pop{
+    margin-bottom: 1em;
+  }
+  .div7 .img_3{
+    margin-left: -1.5em;
+  }
+  .div7 .img_3 img{
+    max-width: 19em;
+  }
+  .div7 .khaire{
+    width: 18.25em;
+  }
+  
+  .last_img{
+    position: absolute;
+    max-width: 42em;
+    top: 223em;
+    left: -4em;
+  }
+  .div8 p{
+    position: absolute;
+    margin-left: -6.8em;
+    margin-top: 6.3em;
+  }
+  .div8 input{
+    position: absolute;
+    margin-left: -7.6em;
+    margin-top: 14.3em;
+  }
+  .div8 button{
+    position: absolute;
+    margin-top: 18.15em;
+    margin-left: 12.2em;
+    padding: 0.8em;
+  }
+}
+
+@media (min-width:1023px) and (max-width:1030px){
+  .box1{
+    max-width: 18.4em;
+  }
+  .div3{
+    /* text-align: center; */
+    margin-left: -4em;
+  }
+  .last_img{
+    position: absolute;
+    left: -5em;
+  }
+  .div8 p{
+    font-size: 2.6em;
+    position: absolute;
+    margin-left: -4.4em;
+    margin-top: 8.8em;
+  }
+  .div8 input{
+    position: absolute;
+    margin-left: -7.6em;
+    margin-top: 27em;
+    max-width: 40em;
+  }
+  .div8 button{
+    position: absolute;
+    margin-top: 34.01em;
+    margin-left: 31.02em;
+    padding: 0.8em;
+  }
+}
+@media (min-width:1270px) and (max-width:1290px){
+  .box1{
+    max-width: 18.4em;
+  }
+  .div3{
+    margin-left: -1.5em;
+  }
+  .div7 img{
+    max-width: 26em;
+    padding-right: 1.2em;
+  }
+  .div7 .khaire{
+    max-width: 24.8em; 
+  }
+}
+
+@media (min-width:1790px){
+  .div3 .container {
+    margin-left: 32.3vw;
+  }
+  .back{
+    max-width: 100%;
+  }
+  .last_img {
+    margin-left: 36.3vw;
+  }
+  .div8{
+    margin-left: 18.3vw;
+  }
+}
